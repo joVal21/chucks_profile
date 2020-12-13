@@ -20,14 +20,15 @@
     background-color: lightblue;
     border: outset;
     margin-left: 600px;
-    
+  }
     
   nav:hover {
     background-color: lightblue; 
+  
   }
     
     
-  }
+
   
   li {
     list-style: none;
