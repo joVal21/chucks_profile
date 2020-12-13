@@ -15,17 +15,19 @@
     text-align: center;
     list-style: none;
     height: 40px;
-    width: 700px;
+    margin-left: 200px;
+    margin-right:200px;
     padding-top:5px;
     background-color: lightblue;
     border: outset;
-    margin-left: 600px;
+    
   }
     
   nav:hover {
     background-color: lightblue; 
   
   }
+
     
     
 
@@ -36,8 +38,8 @@
   }
   
   p {
-    padding-top: 20px;
-    font-weight: 500;
+    padding-top: 17px;
+    font-weight: 400;
     line-height: 1.725rem;
     
   }
@@ -46,9 +48,12 @@
   .container {
     text-align: center;
     background-color: white;
-    margin: 100px 600px;
     border: 2px solid white;
     box-shadow: 0 0 10px #000000;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom:200px;
+    margin-top: 50px;
     
     
   }
