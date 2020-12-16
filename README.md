@@ -50,6 +50,8 @@ I expect the tasks to be updated throughout the entirety of this project. So far
 
 - [x] Create HTML File
 
+- [x] Link CSS to HTML file for design updates
+
 - [x] Link File from VS Code to GitHub
 
 - [ ] Check Grammatical mistakes daily
