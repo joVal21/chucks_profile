@@ -58,5 +58,5 @@ I expect the tasks to be updated throughout the entirety of this project. So far
 
 - [ ] Reach out and receieve an adequate profile photo from Chuck.  
 
-
+- [ ] Reach out to mentor's for recommendations on where to move forward
 
