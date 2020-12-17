@@ -13,11 +13,13 @@ This **project** is one of my first attempts at creating a website for someone. 
 
 The site is going to be card based meaning there will be a few cards named
 
-1. Profile
+1. Profile/Name
 
 1. Hobbies
 
-1. Work Experience
+1. About
+
+1. Footer(basic)
 
 Each card would link to another page within the site and it will hold all of that information. 
 
@@ -54,9 +56,9 @@ I expect the tasks to be updated throughout the entirety of this project. So far
 
 - [x] Link File from VS Code to GitHub
 
-- [ ] Check Grammatical mistakes daily
+- [x] Check Grammatical mistakes daily
 
-- [ ] Update ReadMe with status updates
+- [x] Update ReadMe with status updates
 
 - [ ] Reach out and receieve an adequate profile photo from Chuck.  
 
